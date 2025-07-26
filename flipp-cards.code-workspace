@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../Downloads/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "flipp-cards",
+    "liveServer.settings.port": 5501
+  }
+}
